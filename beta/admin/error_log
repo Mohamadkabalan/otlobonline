@@ -1,0 +1,142 @@
+[12-Dec-2018 12:36:17 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 12:36:17 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 12:37:38 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 12:37:38 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 12:37:38 UTC] PHP Notice:  Undefined index: id in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 20
+[12-Dec-2018 12:55:47 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 12:55:47 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 12:55:53 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 12:55:53 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 12:55:53 UTC] PHP Notice:  Undefined index: id in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 20
+[12-Dec-2018 12:56:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:56:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:57:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:57:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:57:58 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:03 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:04 UTC] PHP Notice:  Undefined variable: response in /home/d2lwhlc5s5dc/public_html/beta/admin/subCategoriesFetch.php on line 10
+[12-Dec-2018 12:58:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:37 UTC] PHP Notice:  Undefined variable: response in /home/d2lwhlc5s5dc/public_html/beta/admin/subCategoriesFetch.php on line 10
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 118
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: subCatID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 119
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 152
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: subCatID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 170
+[12-Dec-2018 12:58:39 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 172
+[12-Dec-2018 12:58:45 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:51 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/banners.php on line 55
+[12-Dec-2018 12:58:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:58:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:59:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:59:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:59:48 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 12:59:48 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 12:59:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 12:59:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:00:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:00:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:00:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:00:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:00:26 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:00:26 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:00:26 UTC] PHP Notice:  Undefined variable: response in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 88
+[12-Dec-2018 13:32:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:45:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:45:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:46:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:46:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:51:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:51:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:51:06 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:51:06 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:51:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:52:07 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:52:08 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:52:08 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:52:43 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:52:43 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:53:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:53:20 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:53:20 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:53:20 UTC] PHP Notice:  Undefined variable: response in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 88
+[12-Dec-2018 13:53:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:53:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:53:24 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:53:24 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:53:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:53:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:53:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 118
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: subCatID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 119
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 152
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 158
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: subCatID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 170
+[12-Dec-2018 13:54:11 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/Items.php on line 172
+[12-Dec-2018 13:56:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:56:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:56:14 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/banners.php on line 55
+[12-Dec-2018 13:56:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:56:32 UTC] PHP Notice:  Undefined variable: catID in /home/d2lwhlc5s5dc/public_html/beta/admin/banners.php on line 55
+[12-Dec-2018 13:56:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:56:50 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 13:56:50 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 13:58:36 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 13:58:36 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 13:58:37 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 13:58:37 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 13:58:43 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 13:58:43 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 13:58:43 UTC] PHP Notice:  Undefined index: id in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 20
+[12-Dec-2018 13:58:43 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:58:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:58:50 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:58:50 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:59:33 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:59:33 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:59:33 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 13:59:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 13:59:57 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 13:59:57 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 14:00:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 14:00:04 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 14:00:04 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 14:14:57 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 14:14:57 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 15:21:28 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 15:21:28 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 15:21:47 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 15:21:47 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 15:21:47 UTC] PHP Notice:  Undefined index: id in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 20
+[12-Dec-2018 15:21:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 15:23:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 15:23:26 UTC] PHP Notice:  Undefined variable: response in /home/d2lwhlc5s5dc/public_html/beta/admin/subCategoriesFetch.php on line 10
+[12-Dec-2018 15:23:31 UTC] PHP Notice:  Object of class mysqli could not be converted to int in /home/d2lwhlc5s5dc/public_html/beta/admin/subcategoriesAdd.php on line 7
+[12-Dec-2018 15:23:37 UTC] PHP Notice:  Object of class mysqli could not be converted to int in /home/d2lwhlc5s5dc/public_html/beta/admin/subcategoriesAdd.php on line 7
+[12-Dec-2018 15:24:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 15:24:27 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 15:24:27 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 15:24:27 UTC] PHP Notice:  Undefined variable: response in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 88
+[12-Dec-2018 15:26:44 UTC] PHP Notice:  Undefined index: brandID in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 5
+[12-Dec-2018 15:26:44 UTC] PHP Notice:  Undefined index: key in /home/d2lwhlc5s5dc/public_html/beta/admin/ItemsFetch.php on line 6
+[12-Dec-2018 15:40:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 15:41:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
+[12-Dec-2018 15:52:51 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 15:52:51 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 15:53:02 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 4
+[12-Dec-2018 15:53:02 UTC] PHP Notice:  Undefined index: webappusername in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 5
+[12-Dec-2018 15:53:02 UTC] PHP Notice:  Undefined index: id in /home/d2lwhlc5s5dc/public_html/beta/admin/login.php on line 20
+[12-Dec-2018 15:53:02 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/d2lwhlc5s5dc/public_html/beta/admin/header.php on line 3
